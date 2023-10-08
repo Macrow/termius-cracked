@@ -1,5 +1,8 @@
 # Termius-cracked
 
+## 破解前说明
+破解前需要先至少打开一次Termius，否则破解后无效
+
 ## 破解方法
 
 安装npm 安装asar
